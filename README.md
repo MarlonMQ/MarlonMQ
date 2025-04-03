@@ -4,6 +4,16 @@
     <a href="https://welcome-to-heaven.com" target="_blank">welcome-to-heaven.com</a>
 </p>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ A passionate **Computer Engineering Student** with a strong focus on **Software Development**.<br>
+✔ A love for **Full-Stack Development**.<br>
+✔ I’m constantly exploring new technologies and techniques to create efficient and scalable software solutions.<br>
+✔ I enjoy the challenge of problem-solving and am always eager to learn and adapt to new fields within tech.<br>
+
+
+
+
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -25,10 +35,16 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |
 
 ### 🛠️ Frameworks and Libraries  
-| React | Node.js | Express.js | Bootstrap | Tailwind CSS |
-|---|--------|------------|-----------|--------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> |
+| React | Node.js | Express.js | Bootstrap | Tailwind CSS | Flutter |
+|---|--------|------------|-----------|--------------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/> |
+
 
 ## Notable Projects
 - [Convolutional neural networks](https://github.com/archibald-carrion/Convolutional-neural-networks-sound-classification) used to classify audio of an ambulance siren.
 - [Video Game "The Templar"](https://github.com/archibald-carrion/Video-game-The-Templar) is a platformer game made with C++ using **GLM**, **Lua**, **Sol**, and **TinyXML2** libraries
+
+## 🌍 Languages I Speak:
+| 🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian |
+|-------------|-------------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="40" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="40" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="40" height="30"/> |
