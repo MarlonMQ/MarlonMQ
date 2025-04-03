@@ -43,6 +43,8 @@
 ## 📂 Notable Projects
 - [Convolutional neural networks](https://github.com/archibald-carrion/Convolutional-neural-networks-sound-classification) used to classify audio of an ambulance siren.
 - [Video Game "The Templar"](https://github.com/archibald-carrion/Video-game-The-Templar) is a platformer game made with C++ using **GLM**, **Lua**, **Sol**, and **TinyXML2** libraries
+- [Hazbin Hotel](https://git.ucr.ac.cr/MARLON.MURILLOQUESADA/fullstack-hotel-project-mlir)  Is a **Full-Stack** project for a hotel website where users can make reservations, and the manager can manage bookings and services.
+
 
 ## 🌍 Languages I Speak:
 | 🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian |
