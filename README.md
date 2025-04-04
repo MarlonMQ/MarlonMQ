@@ -41,8 +41,8 @@
 
 
 ## 🌐 Web Sites
-- [welcome-to-heaven.com](welcome-to-heaven.com) Personal website as a portafolio to showcase my projects and hobbies
-- [caperestudio.com](caperestudio.com/develop) A website for Capere Studio, a digital marketing agency specializing in social media
+- [welcome-to-heaven.com](https://welcome-to-heaven.com) Personal website as a portafolio to showcase my projects and hobbies
+- [caperestudio.com](https://caperestudio.com/develop) A website for Capere Studio, a digital marketing agency specializing in social media
 
 
 ## 📂 Notable Projects
