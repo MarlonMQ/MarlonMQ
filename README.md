@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Marlon! 👁️</h1>
+<h1 align="center">Hi, I'm Marlon! 👁️</h1>
 <h3 align="center">Computer Science Student | Software Developer | Full-Stack Developer</h3>
 <p align="center">
     <a href="https://welcome-to-heaven.com" target="_blank">welcome-to-heaven.com</a>
