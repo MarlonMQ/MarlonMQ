@@ -40,6 +40,11 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/> |
 
 
+## 🌐 Web Sites
+- [welcome-to-heaven.com](welcome-to-heaven.com) Personal website as a portafolio to showcase my projects and hobbies
+- [caperestudio.com](caperestudio.com/develop) A website for Capere Studio, a digital marketing agency specializing in social media
+
+
 ## 📂 Notable Projects
 - [Convolutional neural networks](https://github.com/archibald-carrion/Convolutional-neural-networks-sound-classification) used to classify audio of an ambulance siren.
 - [Video Game "The Templar"](https://github.com/archibald-carrion/Video-game-The-Templar) is a platformer game made with C++ using **GLM**, **Lua**, **Sol**, and **TinyXML2** libraries
