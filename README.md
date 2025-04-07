@@ -30,14 +30,15 @@
 ## 🚀 Languages & Tools
 
 ### 🖥️ Programming Languages
-| C | C++ | Python | HTML | CSS | JavaScript |
-|---|----|--------|------|-----|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |
+| C | C++ | Python | HTML | CSS | SCSS | JavaScript | TypeScript |
+|---|----|--------|------|-----|------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> |
+
 
 ### 🛠️ Frameworks and Libraries  
-| React | Node.js | Express.js | Bootstrap | Tailwind CSS | Flutter |
-|---|--------|------------|-----------|--------------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/> |
+| React | React Native | Node.js | Express.js | Tailwind CSS | Flutter |
+|-------|--------------|---------|------------|--------------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/> |
 
 
 ## 🌐 Web Sites
