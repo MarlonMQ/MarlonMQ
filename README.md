@@ -55,6 +55,6 @@
 
 
 ## 🌍 Languages I Speak:
-| 🇪🇸 Spanish | 🇬🇧 English | 🇮🇹 Italian |
+| 🇪🇸 Spanish | EN English | 🇮🇹 Italian |
 |-------------|-------------|-------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="40" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="40" height="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="40" height="30"/> |
