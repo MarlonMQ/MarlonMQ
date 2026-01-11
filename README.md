@@ -44,12 +44,11 @@
 
 ## 🌐 Web Sites
 - [welcome-to-heaven.com](https://welcome-to-heaven.com) Personal website as a portafolio to showcase my projects and hobbies
-- [caperestudio.com](https://caperestudio.com/develop) A website for Capere Studio, a digital marketing agency specializing in social media
-- [famuque.com](https://famuque.com/dev) Catalog website for Famuque S.A., a company dedicated to the distribution of irrigation products and systems for agricultural and residential use.
+- [famuque.com](https://staging.famuque.com/) Catalog website for Famuque S.A., a company dedicated to the distribution of irrigation products and systems for agricultural and residential use.
 
 
 ## 📂 Notable Projects
-- [Convolutional neural networks](https://github.com/archibald-carrion/Convolutional-neural-networks-sound-classification) used to classify audio of an ambulance siren.
+- [Convolutional neural networks](https://github.com/Fabian-Vega/Artificial-Inteligence-Project-for-Ambulance-sound-Analysis) used to classify audio of an ambulance siren.
 - [Video Game "The Templar"](https://github.com/archibald-carrion/Video-game-The-Templar) is a platformer game made with C++ using **GLM**, **Lua**, **Sol**, and **TinyXML2** libraries
 - [Hazbin Hotel](https://github.com/MarlonMQ/MarlonMQ-fullstack-hotel-project-MLIR)  Is a **Full-Stack** project for a hotel website where users can make reservations, and the manager can manage bookings and services.
 
