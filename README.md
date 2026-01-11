@@ -49,6 +49,7 @@
 
 ## 📂 Notable Projects
 - [Convolutional neural networks](https://github.com/Fabian-Vega/Artificial-Inteligence-Project-for-Ambulance-sound-Analysis) used to classify audio of an ambulance siren.
+- [Bot Detection](https://github.com/MarlonMQ/deteccion-bots-x-tweet) on Social Network X Using Tweet-Level Analysis
 - [Video Game "The Templar"](https://github.com/archibald-carrion/Video-game-The-Templar) is a platformer game made with C++ using **GLM**, **Lua**, **Sol**, and **TinyXML2** libraries
 - [Hazbin Hotel](https://github.com/MarlonMQ/MarlonMQ-fullstack-hotel-project-MLIR)  Is a **Full-Stack** project for a hotel website where users can make reservations, and the manager can manage bookings and services.
 
