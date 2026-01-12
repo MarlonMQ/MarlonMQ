@@ -45,6 +45,7 @@
 ## 🌐 Web Sites
 - [welcome-to-heaven.com](https://welcome-to-heaven.com) Personal website as a portafolio to showcase my projects and hobbies
 - [famuque.com](https://staging.famuque.com/) Catalog website for Famuque S.A., a company dedicated to the distribution of irrigation products and systems for agricultural and residential use.
+- [academiacopernicus.cenat.ac.cr](https://academiacopernicus.cenat.ac.cr/) Elaborate landing page developed for **Academia Copernicus Costa Rica**, commissioned by **CENAT**, designed to clearly communicate the program’s objectives, academic offerings, and institutional backing, with a strong focus on clarity, visual structure, and conversion.
 
 
 ## 📂 Notable Projects
